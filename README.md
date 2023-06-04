@@ -1,4 +1,4 @@
-# Will-it-blow
+# Genre prediction
 
 # Problem Statement
 We aimed to attempt predicting the genre of the movie for people to be able to know whether it suits their taste:
