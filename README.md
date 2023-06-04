@@ -1,11 +1,10 @@
 # Will-it-blow
 
 # Problem Statement
-We aimed to attempt predicting the popularity of a new movie before its production and release
-This could enable filmmakers and production companies to:
-1. Make informed decisions about their movie projects
-2. Allocate resources effectively
-3. Increase the chances of producing successful and popular movies
+We aimed to attempt predicting the genre of the movie for people to be able to know whether it suits their taste:
+1. Make informed decisions about their movie-to-watch
+2. increase satisfaction from watching movie
+3. make movies more worth watching
 
 # Solution
 - We have thereby come up with a machine learning model that predicts the popularity of a new movie based on various features, such as the budget, release year, genre, director, and cast
