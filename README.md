@@ -7,15 +7,15 @@ We aimed to attempt predicting the genre of the movie for people to be able to k
 3. make movies more worth watching
 
 # Solution
-- We have thereby come up with a machine learning model that predicts the popularity of a new movie based on various features, such as the budget, release year, genre, director, and cast
-- Leveraging historical movie data via the use of these features enables our model to provide an estimate of the movie's popularity before its release
-- Filmmakers and production companies can use this prediction to create and publish better movies that audiences will enjoy more, thus benefiting the industry
+- We have thereby come up with a machine learning model that predicts the genre based on image classification
+- Leveraging historical movie data via the use of these features enables our model to provide an estimate of the movie genre based on the image
+- movegoers can use this to find movie they may be interested in watching based on genre
 
 # Role of AI (Machine Learning)
 - AI in the form of a machine learning model plays a crucial role in our solution
-- Training a machine learning model on a dataset of historical movie data enables us to capture patterns and relationships between movie features and popularity
+- Training a machine learning model on a dataset of historical movie data enables us to capture patterns and relationships between movie features and genre
 - This trained model can then be used to predict the popularity of new movies based on previously mentioned pointers
-- Via leveraging data-driven insights, this could help us to make accurate predictions, providing valuable insight for filmmakers and production companies during their decision-making process
+- Via leveraging data-driven insights, this could help us to make accurate predictions, providing valuable insight for moviegoers
 
 # Reason for model chosen
 - VGG16 is a pre-trained convolutional neural network (CNN) model trained on a large dataset, which enables transfer learning
